@@ -1,12 +1,11 @@
 
 # Hi fellows, I'm Arun Jenson 👋 
 
-## I'm a Full-Stack Developer
+## I'm a Front-end Developer
 
-- 🔭 remote Software Developer Intern at Stige
-- 🌱 I’m currently strengthing my JS and backend skills
-- 👯 Interested in Machine Learning and Cloud Computing
-- 🥅 2022 Goals: Trying To Be a Better Human
+- 🔭 Front-end Intern at SurveySparrow
+- remote Software Developer Intern at Stige
+- 🥅 2023 Goals: Trying To Be a Better Human
 - ⚡ Love To Travel
 - 😻 Music Lover
 
