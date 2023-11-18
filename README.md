@@ -3,7 +3,7 @@
 
 ## I'm a Front-end Developer
 
-- 🔭 Front-end Intern at SurveySparrow
+- 🔭 Front-end Dev at SurveySparrow
 - remote Software Developer Intern at Stige
 - 🥅 2023 Goals: Trying To Be a Better Human
 - ⚡ Love To Travel
