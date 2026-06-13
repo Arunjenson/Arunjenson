@@ -43,9 +43,8 @@
 
   ---
 
-  <details>
+   <details>
     <summary>⚡ GitHub Stats</summary>
-
     <p align="left">
       <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Arunjenson&show_icons=true&hide_border=true" />
     </p>
@@ -53,7 +52,6 @@
 
   <details>
     <summary>📊 Most Used Languages</summary>
-
     <p align="left">
       <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arunjenson&layout=compact" />
     </p>
