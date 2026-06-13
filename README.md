@@ -1,6 +1,6 @@
   # Hi there, I'm Arun Jenson 👋
 
-  ### Front-end Developer
+  ### Member of Techinal Staff at Surveysparrow
 
   - 🔭 Building fast, polished web experiences with React & Next.js
   - ⚡ ~6,000 commits over the last 3 years and counting
