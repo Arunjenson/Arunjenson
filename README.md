@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arunjenson&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Arunjenson&show_icons=true&hide_border=true" />
 
 </details>
 <br />
@@ -48,7 +48,6 @@
 
 <!-- [website]:  -->
 [twitter]: https://twitter.com/arun_jenson
-[youtube]: https://www.youtube.com/channel/UCupHcp8XEJgjn_trBKDepXw
 [instagram]: https://www.instagram.com/arun_jenson/
 [linkedin]: https://www.linkedin.com/in/arun-jenson-86b43a191/
 
