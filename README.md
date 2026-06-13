@@ -4,7 +4,7 @@
 ## I'm a Front-end Developer
 
 - 🔭 Senior Front-end Dev at SurveySparrow
-- 🥅 2024 Goals: Trying To Be a Better Human
+- 🥅 2026 Goals: Trying To Be a Better Human
 - ⚡ Love To Travel
 - 😻 Music Lover
 
